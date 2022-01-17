@@ -1,6 +1,6 @@
 <?php  
 
-$sname = "0.0.0.0";
+$sname = "dbserver";
 $uname = "root";
 $password = "root";
 
