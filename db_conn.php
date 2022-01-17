@@ -1,8 +1,8 @@
 <?php  
 
 $sname = "0.0.0.0";
-$uname = "cmpadmin";
-$password = "Unisys*12345";
+$uname = "root";
+$password = "root";
 
 $db_name = "hybrid";
 
